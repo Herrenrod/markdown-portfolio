@@ -1,3 +1,4 @@
-# This is an <h1> header, which is the largest
-## This is an <h2> header
-###### This is an <h6> header, which is the smallest
+# Norman Herrera
+### _Front-End Web Developer_
+
+Here is a list of the projects I have worked on
